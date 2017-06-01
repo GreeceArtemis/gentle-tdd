@@ -1,0 +1,24 @@
+{
+  "name": "gentletdd",
+  "version": "1.0.0",
+  "description": "Ejercicio TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreeceArtemis/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "Grecia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreeceArtemis/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/GreeceArtemis/gentle-tdd#readme"
+}
